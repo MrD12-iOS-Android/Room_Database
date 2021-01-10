@@ -41,6 +41,8 @@ public class MainAdapter extends RecyclerView.Adapter<MainAdapter.ViewHolder> {
 
     }
 
+    //
+
     @Override
     public void onBindViewHolder(@NonNull ViewHolder holder, int position) {
 
