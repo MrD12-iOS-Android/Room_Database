@@ -25,7 +25,6 @@ public class MainAdapter extends RecyclerView.Adapter<MainAdapter.ViewHolder> {
     private RoomDB database;
 
 
-
     // Create constructor
     public MainAdapter(Activity context,List<MainData> dataList){
         this.context = context;
