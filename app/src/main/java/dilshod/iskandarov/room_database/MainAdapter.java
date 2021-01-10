@@ -31,14 +31,6 @@ public class MainAdapter extends RecyclerView.Adapter<MainAdapter.ViewHolder> {
         this.dataList = dataList;
         notifyDataSetChanged();
     }
-
-
-
-
-
-
-
-
     @NonNull
     @Override
     public ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
